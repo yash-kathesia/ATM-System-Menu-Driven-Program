@@ -68,11 +68,11 @@ class Transfer {
 public class ATMSystem {
     private static Scanner scanner = new Scanner(System.in);
     // USER ID
-    private static String userId = "11";
+    private static String userId = "21028";
     // USER PIN
-    private static String userPin = "22";
-    // Initial Balance is 10000Rs.
-    public static double balance = 10000.00;
+    private static String userPin = "38009 ";
+    // Initial Balance is 1000000Rs.
+    public static double balance = 1000000.00;
     private static TransactionHistory transactionHistory = new TransactionHistory();
 
     public static void main(String[] args) {
