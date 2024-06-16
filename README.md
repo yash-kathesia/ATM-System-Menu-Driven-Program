@@ -1,4 +1,4 @@
-# ATM System Menu Driven Program
+# ATM INTERFACE
 This Java application simulates an Automated Teller Machine (ATM) device, allowing users to perform diverse banking transactions consisting of withdrawals, deposits, transfers, and examine transaction history.
 It offers a menu-driven interface for smooth navigation.
 
