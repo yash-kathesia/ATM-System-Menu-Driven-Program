@@ -13,3 +13,7 @@ Withdrawal: Users can withdraw finances from their account, with the gadget chec
 Deposit: Users can deposit budget into their account, updating the balance for that reason.
 
 Transfer: Users can transfer price range to any other account by using specifying the recipient's User ID and the transfer quantity.
+
+
+https://github.com/yash-kathesia/Oasis-Infobyte-ATM-Interface/assets/103806403/513530e8-0f2b-4170-9651-9692436a9d19
+
